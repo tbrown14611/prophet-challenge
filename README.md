@@ -1,4 +1,7 @@
 # prophet-challenge
+
+The source file is located at "https://github.com/tbrown14611/prophet-challenge"
+
 Module 8 Challenge
 Due Apr 15 by 11:59pm Points 100 Submitting a text entry box or a website url
 Background
